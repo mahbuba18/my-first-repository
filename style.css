@@ -1,8 +1,5 @@
 body{
-    background-image:url("Images/th.jpg") ;
-    position: center;
-    background-size: cover;
-    height: 100vh;
+    background-color: bisque;
    
 }
 .par{
@@ -17,7 +14,7 @@ body{
 }
 .par2{
     margin-top: 10px;
-    margin-left: 20px;
+    margin-left: 30px;
 }
 .par2 img{
     display: inline;
