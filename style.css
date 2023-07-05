@@ -1,8 +1,30 @@
+body{
+    background-image:url("Images/th.jpg") ;
+    position: center;
+    background-size: cover;
+    height: 100vh;
+   
+}
 .par{
     background-color: aqua ;
     border-radius: 5px;
     text-align: center;
+    box-shadow: 10ppx 10px 10px royalblue;
+    font-size: larger;
     
 
+
+}
+.par2{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.par2 img{
+    display: inline;
+    height: 150px;
+    width: 200px;
+    border: 5px solid white;
+    margin: auto;
+    border-radius: 5px;
 
 }
